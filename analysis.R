@@ -4,3 +4,7 @@ metadata <- data.frame(
 )
 
 metadata
+
+gene_count <- data.frame(Gene_names = c("Plk2", "Pls", "Jagn", "Cls2"),
+                         Abundance = c(102, 204, 294, 292)
+)
